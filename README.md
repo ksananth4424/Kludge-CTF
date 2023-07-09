@@ -1,16 +1,20 @@
 # Kludge-CTF Writeup
 
-Question: We all know John Wick, Don't we?
+Question:
 
+          We all know John Wick, Don't we?
           flag format flagCTF{}
 
-Attachments: problem.jpg
+Attachments:
 
-Hint: -> What does the file extension say?
+          problem.jpg
 
-      -> Try it the other way.
+Hint: 
+          
+          -> What does the file extension say?
+          -> Try it the other way.
 
-Writeup
+# Writeup
 
 The file given in the question is as we can see a .jpg file.
 But, when we try to open it, it can not be opened.

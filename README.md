@@ -1,9 +1,13 @@
 # Kludge-CTF Writeup
 
 Question: We all know John Wick, Don't we?
+
           flag format flagCTF{}
 
+Attachments: problem.jpg
+
 Hint: -> What does the file extension say?
+
       -> Try it the other way.
 
 Writeup

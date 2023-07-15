@@ -1,1 +1,1 @@
-# Kludge-CTF Writeup
+# Kludge-CTF

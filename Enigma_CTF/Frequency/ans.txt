@@ -1,5 +1,7 @@
+Cyberchef substitute recipe, check - Ignore case option
+
 Plaintext
--·TEIAO+*/NRHSDCPLYUFGBW_,.4M2K03VZ{8}
+r;"aew=092xz|scd\]jf@gbhkqnv%'[opiulym
 
 Ciphertext
-r;"aeo=092ipjsaj[]jknhbhkaiv;'[oiiuuyy
+-·teiaO+*/nrhsdcplyufgbw_,.4m2k03vz{8}

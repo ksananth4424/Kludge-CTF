@@ -1,0 +1,7 @@
+Convert the given base64 input to normal text;
+
+then use ADGFX cipher decoder to decode the table inputs are the file name MY24LOVEFAITHSUNGR0WDCPBK;
+Key word is ENIGMA24;
+
+You will get flag at the end;
+Change enigma to lower case add flower brackets and that is the flag;

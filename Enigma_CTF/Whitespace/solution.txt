@@ -1,0 +1,5 @@
+Copy all the content in the file.
+Use whitespace converter to find the text in the whitespace.
+It is in binary convert this to ascii text.
+
+We get the flag.

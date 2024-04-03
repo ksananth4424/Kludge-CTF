@@ -1,0 +1,3 @@
+Run stegseek on the image
+
+And convert the hidden content from hex to text twice

@@ -1,13 +1,13 @@
 ---
-Category: "steganography"
-Title: "Image crack"
+Category: "Reverse"
+Title: "Bruh"
 CID: ""
 Version: 1
 Author: "K S Ananth"
-Summary: "Can you force it out?"
+Summary: "It's right there!"
 Points: 
-Flag: "cybercon{That_w45_v3ry_3a5y}"
-sha256: "bd8668e15b0fabb84f79ae4d414cc95fd01bfb304f5ba6dbd000b42ae63c4ac9"
+Flag: "cybercon{bruhm0m3nt}"
+sha256: ""
 Hints: "[]"
 weight: 
 ---
